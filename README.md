@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-Hi, I'm @seanlowe! I'm a Mid to Senior level Software Developer currently working with TypeScript, but I love to work with Golang or Python too. In my free time, I tinker with various technologies such as Next.js, Neovim, Rust, and Godot.
+Hi, I'm @seanlowe! I'm an early Senior level Software Developer actively looking for work! My most recent experiences were working with TypeScript, but I'd love to learn how to work with Golang, Rust, or Python. 
+
+In my free time, I tinker with various technologies such as Next.js, Neovim, Rust, and Godot.
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanlowe&exclude_repo=practica,college-courses,simpleOS,realtimeraytracer,sorcerer,&layout=compact&theme=transparent&langs_count=8" />

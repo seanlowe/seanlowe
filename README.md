@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Hi, I'm @seanlowe! I'm an early Senior level Software Developer actively looking for work! My most recent experiences were working with TypeScript, but I'd love to learn how to work with Golang, Rust, or Python. 
+Hi, I'm @seanlowe! I'm an early Senior level Software Developer, currently working with PHP Laravel and Java Spring Boot in my professional role. In my personal projects, I use a mix of TypeScript, Golang, or Python.
 
 In my free time, I tinker with various technologies such as Next.js, Neovim, Rust, and Godot.
 
@@ -11,10 +11,7 @@ In my free time, I tinker with various technologies such as Next.js, Neovim, Rus
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seanlowe&count_private=true&show_icons=true&include_all_commits=true&theme=transparent" />
 </a>
 
-<!-- ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma) -->
-<!-- ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js) -->
-<!-- ![GoLang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=black) -->
-<!-- ![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black) -->
+
 
 <p>My current favorite technologies:</p>
 
@@ -35,5 +32,11 @@ In my free time, I tinker with various technologies such as Next.js, Neovim, Rus
 Resources:
 - https://shields.io/badges
 - https://github.com/simple-icons/simple-icons
+
+Other Badges:
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![GoLang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=black)
+![React](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)
 
 -->
